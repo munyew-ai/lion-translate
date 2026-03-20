@@ -51,6 +51,6 @@ lion-translate/
 
 ## Built By
 
-Darren Loh (IMDA) - National Multimodal LLM Programme (NMLP)
+Loh Mun Yew (IMDA) - National Multimodal LLM Programme (NMLP)
 
 Built with SEA-LION by AI Singapore | Deployed on HuggingFace
